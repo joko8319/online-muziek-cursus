@@ -1,0 +1,65 @@
+{
+ "amount": 9,
+ "author_id": null,
+ "pages": {
+  "pages": 1
+ },
+ "posts_per_page": [
+  [
+   {
+    "id": 325191,
+    "title": "De voordelen van online muziekcursussen voor beginners",
+    "is_sticky": 0,
+    "image": "https://media-01.imu.nl/storage/19/21/responsive/11187295/de-voordelen-van-online-muziekcursussen-voor-beginners-2558x1100_513_221.jpg",
+    "image_srcset": "https://media-01.imu.nl/storage/19/21/responsive/11187295/de-voordelen-van-online-muziekcursussen-voor-beginners-2558x1100_513_221.jpg 513w",
+    "image_title": "Voordelen online muzieklessen",
+    "permalink": "https://onlinemuziekcursus.nl/voordelen-online-muziekcursus-beginners/",
+    "excerpt": "Wil je graag muziek leren maken, maar zie je het niet zitten om naar een muziekschool te gaan of wekelijks fysiek les te volgen? Dan zijn&nbsp; online muziekcursussen d&eacute; oplossing. In dit artikel ontdek je..",
+    "shares_amount": 0,
+    "comments_amount": 0,
+    "legacy_date": "18 juli 2025",
+    "author": "Johan Koelewijn",
+    "author_image": null,
+    "category": "Muziekles",
+    "category_url": "https://onlinemuziekcursus.nl/muziekles/",
+    "readtime": 2
+   },
+   {
+    "id": 66075,
+    "title": "Muziekinstrumenten, de drie bekendste",
+    "is_sticky": 0,
+    "image": "https://media-01.imu.nl/storage/onlinemuziekcursus.nl/21/wp/Online-muziekles-1170x468.jpg",
+    "image_srcset": "https://media-01.imu.nl/storage/onlinemuziekcursus.nl/21/wp/Online-muziekles-1170x468.jpg 1170w",
+    "image_title": "Muziekinstrumenten, de drie bekendste",
+    "permalink": "https://onlinemuziekcursus.nl/muziekinstrumenten-de-drie-bekendste/",
+    "excerpt": "Muziekinstrumenten: De Drie Bekendste en Meer! Droom je ervan om een instrument te bespelen? De wereld van de muziek is rijk en divers, en er zijn talloze instrumenten om uit te kiezen. Maar waar begin je? De drie..",
+    "shares_amount": 0,
+    "comments_amount": 0,
+    "legacy_date": "31 juli 2013",
+    "author": "Johan Koelewijn",
+    "author_image": null,
+    "category": "Muziekles",
+    "category_url": "https://onlinemuziekcursus.nl/muziekles/",
+    "readtime": 5
+   },
+   {
+    "id": 66066,
+    "title": "Online muziekles",
+    "is_sticky": 0,
+    "image": "https://media-01.imu.nl/storage/onlinemuziekcursus.nl/21/wp/Online-muziekles-1170x468.jpg",
+    "image_srcset": "https://media-01.imu.nl/storage/onlinemuziekcursus.nl/21/wp/Online-muziekles-1170x468.jpg 1170w",
+    "image_title": "Online muziekles",
+    "permalink": "https://onlinemuziekcursus.nl/online-muziekles/",
+    "excerpt": "Online Muziekles: Ontdek de Voordelen en Mogelijkheden Droom je ervan om gitaar te spelen, je zangtalent te ontwikkelen, of de sterren van de hemel te drummen? Altijd al zangles of andere muziekles willen nemen, maar..",
+    "shares_amount": 0,
+    "comments_amount": 0,
+    "legacy_date": "25 juli 2013",
+    "author": "Johan Koelewijn",
+    "author_image": null,
+    "category": "Muziekles",
+    "category_url": "https://onlinemuziekcursus.nl/muziekles/",
+    "readtime": 4
+   }
+  ]
+ ]
+}

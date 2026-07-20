@@ -1,0 +1,58 @@
+{
+ "data": [
+  {
+   "uuid": "3135b2be-0f3b-4fc2-b206-cc5934262e5b",
+   "articleUuid": "88867ebd-03d6-4fd2-b2d0-494a80f8dd28",
+   "parentUuid": null,
+   "websiteUser": null,
+   "author_name": "Edward Berger",
+   "author_email": "edward.berger@madisonunderwood.com",
+   "content": "Dus als ik de Capo op de 5e Fret plaats wordt het open G akkoord een C.  Dat is een handige tabel.",
+   "receive_email_upon_reply": false,
+   "isAuthor": false,
+   "created_at": "2019-12-06 00:04:28",
+   "children": []
+  },
+  {
+   "uuid": "8f717cf5-9e99-4545-a332-d590258286ef",
+   "articleUuid": "88867ebd-03d6-4fd2-b2d0-494a80f8dd28",
+   "parentUuid": null,
+   "websiteUser": null,
+   "author_name": "Marieke",
+   "author_email": "mariekevanburen81@gmail.com",
+   "content": "Informatief verhaal",
+   "receive_email_upon_reply": false,
+   "isAuthor": false,
+   "created_at": "2019-12-04 22:28:20",
+   "children": []
+  }
+ ],
+ "current_page": 1,
+ "first_page_url": "http://onlinemuziekcursus.nl:443/articles/88867ebd-03d6-4fd2-b2d0-494a80f8dd28/comments?page=1",
+ "from": 1,
+ "last_page": 1,
+ "last_page_url": "http://onlinemuziekcursus.nl:443/articles/88867ebd-03d6-4fd2-b2d0-494a80f8dd28/comments?page=1",
+ "links": [
+  {
+   "url": null,
+   "label": "&laquo; Previous",
+   "active": false
+  },
+  {
+   "url": "http://onlinemuziekcursus.nl:443/articles/88867ebd-03d6-4fd2-b2d0-494a80f8dd28/comments?page=1",
+   "label": "1",
+   "active": true
+  },
+  {
+   "url": null,
+   "label": "Next &raquo;",
+   "active": false
+  }
+ ],
+ "next_page_url": null,
+ "path": "http://onlinemuziekcursus.nl:443/articles/88867ebd-03d6-4fd2-b2d0-494a80f8dd28/comments",
+ "per_page": 10,
+ "prev_page_url": null,
+ "to": 2,
+ "total": 2
+}

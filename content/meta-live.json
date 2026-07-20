@@ -1,0 +1,776 @@
+{
+  "muziektheorie": {
+    "title": "Muziektheorie cursus - OnlineMuziekCursus.nl",
+    "metadesc": "In de muziektheorie cursus leer je alles over de muziek die je maakt en luistert. Laat je creatief inspireren door muziektheorie",
+    "canonical": "https://onlinemuziekcursus.nl/muziektheorie/",
+    "robots": "index, follow"
+  },
+  "gitaar-en-aanbidding": {
+    "title": "Online Gitaar&Aanbidding lessen - OnlineMuziekCursus.nl",
+    "metadesc": "Droom jij ervan geweldige aanbiddingsnummers op je gitaar te kunnen spelen? Waar wacht je nog op?! Binnen enkele weken de technieken onder de knie.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaar-en-aanbidding/",
+    "robots": "index, follow"
+  },
+  "online-piano-leren-spelen": {
+    "title": "Online piano leren spelen - OnlineMuziekCursus.nl",
+    "metadesc": "Bij ons kun je voordelig online piano leren spelen. Bepaal zelf wanneer je lessen volgt en profiteer van unieke voordelen. Bestel nu en begin direct.",
+    "canonical": "https://onlinemuziekcursus.nl/online-piano-leren-spelen/",
+    "robots": "index, follow"
+  },
+  "gitaar-snaren-namen": {
+    "title": "Gitaar snaren namen | Online Muziek Cursus",
+    "metadesc": "Om je gitaar te stemmen moet je de snaren met behulp van hun namen onderscheiden. Dankzij onze cursus heb je dit snel geleerd. Bestel de cursus en begin.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaar-snaren-namen",
+    "robots": "index, follow"
+  },
+  "gitaar-noten-leren": {
+    "title": "Gitaar noten leren | Online Muziek Cursus",
+    "metadesc": "Wil jij voor de gitaar noten leren lezen? Dankzij onze voordelige online cursus leer je op jouw manier. Bestel de cursus en begin meteen met leren.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaar-noten-leren",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen": {
+    "title": "Gitaar akkoorden leren",
+    "metadesc": "Dankzij dit handige overzicht kun jij snel op je gitaar akkoorden leren spelen. Wanneer je deze akkoorden beheerst, bestel je hier ook leuke cursussen.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/cm-akkoord-gitaar-c-mineur": {
+    "title": "Cm gitaar akkoord (C mineur)",
+    "metadesc": "Wil je gitaarakkoorden leren spelen? Bekijk dan eens onze kennisbank van gitaarakkoorden! Hier vind je het Cm akkoord en alle andere akkoorden.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/cm-akkoord-gitaar-c-mineur/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/bm-akkoord-gitaar-b-mineur": {
+    "title": "Bm akkoord gitaar (B mineur)",
+    "metadesc": "Wil je gitaarakkoorden leren spelen? In onze kennisbank vind je alle gitaarakkoorden zoals bijvoorbeeld het Bm gitaar akkoord!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/bm-akkoord-gitaar-b-mineur/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/c-akkoord-gitaar": {
+    "title": "C akkoord gitaar, akkoord diagram + video | OnlineMuziekCursus.nl",
+    "metadesc": "Het C-akkoord, een belangrijk basisakkoord in de muziek. Ook in de gitaarmuziek is het C-akkoord vaak een onderdeel van de basis, bekijk hier de video....",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/c-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/a-akkoord-gitaar": {
+    "title": "A akkoord gitaar, Bekijk hier de video en akkoorddiagram",
+    "metadesc": "Het A akkoord is één van de basisakkoorden. Wat is het A akkoord precies, hoe speel je het en welke verschillende vormen zijn er? (video + akkoorddiagram)",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/a-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/a7-akkoord-gitaar": {
+    "title": "A7 akkoord gitaar",
+    "metadesc": "Wil je graag meer weten over het A7 akkoord voor de gitaar? Lees dan ons artikel! In onze kennisbank vind je nog veel meer gitaarakkoorden.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/a7-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/fm-akkoord-gitaar-f-mineur": {
+    "title": "Fm akkoord gitaar (F mineur)",
+    "metadesc": "Ben je benieuwd hoe je het gitaarakkoord Fm, ofwel F mineur speelt? In onze kennisbank vind je alle gitaarakkoorden om snel alle akkoorden te kunnen leren!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/fm-akkoord-gitaar-f-mineur/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/dm-akkoord-gitaar-d-mineur": {
+    "title": "Dm akkoord gitaar (D mineur)",
+    "metadesc": "Wil je het Dm akkoord (D mineur) op de gitaar leren spelen? Lees dan eens dit artikel! Ook vind je nog veel meer gitaarakkoorden in onze kennisbank.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/dm-akkoord-gitaar-d-mineur/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/g-akkoord-gitaar": {
+    "title": "G Akkoord Gitaar - OnlineMuziekCursus.nl",
+    "metadesc": "Het G akkoord van de gitaar is een belangrijk basisakkoord. Bekijk hier hoe je het G akkoord speelt met video en akkoorddiagram...",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/g-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/em-akkoord-gitaar-e-mineur": {
+    "title": "Em akkoord gitaar (E mineur)",
+    "metadesc": "Wil je gitaar leren spelen en gitaarakkoorden oefenen zoals het Em akkoord (E mineur)? Bekijk dan eens onze kennisbank gitaarakkoorden!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/em-akkoord-gitaar-e-mineur/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/e7-akkoord-gitaar": {
+    "title": "E7 akkoord gitaar",
+    "metadesc": "Ben je benieuwd hoe je het E7 akkoord speelt op de gitaar? In ons artikel leggen we je alles uit! Ook vind je in onze kennisbank nog veel meer gitaarakkoorden!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/e7-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/g7-akkoord-gitaar": {
+    "title": "G7 akkoord gitaar",
+    "metadesc": "Ben je benieuwd hoe je het G7 akkoord op de gitaar speelt? Lees dan eens ons artikel! In onze kennisbank vind je overigens nog veel meer gitaarakkoorden!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/g7-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/c7-akkoord-gitaar": {
+    "title": "C7 akkoord gitaar",
+    "metadesc": "Ben je al een tijdje de akkoorden voor de gitaar aan het leren en ben je toe om het C7 akkoord te leren? Lees dan ons artikel! In onze kennisbank vind je overigens nog meer gitaarakkoorden!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/c7-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/d-akkoord-gitaar": {
+    "title": "D Akkoord Gitaar (Video + Akkoord Diagram) | OnlineMuziekCursus.nl",
+    "metadesc": "Om het D akkoord probleemloos te leren spelen, is het belangrijk dat je je vingers op de juiste manier neerzet. Bekijk hier de video over het D akkoord.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/d-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/d7-akkoord-gitaar": {
+    "title": "D7 akkoord gitaar",
+    "metadesc": "Wil je het D7 akkoord op de gitaar leren? Lees dan eens ons artikel! Ook hebben wij in onze kennisbank nog veel meer gitaarakkoorden klaarstaan!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/d7-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/am-akkoord-gitaar-a-mineur": {
+    "title": "Am akkoord gitaar (A mineur)",
+    "metadesc": "Ben je benieuwd hoe je bepaalde gitaarakkoorden speelt? In onze kennisbank vindt je alle gitaarakkoorden, waaronder het Am (A mineur) gitaarakkoord!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/am-akkoord-gitaar-a-mineur/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/am7-akkoord-gitaar": {
+    "title": "Am7 akkoord gitaar",
+    "metadesc": "Heb je al wat gitaarakkoorden geleerd en ben je benieuwd hoe je het Am7 akkoord op de gitaar speelt? Lees dan eens ons artikel en bekijk ook eens de overige gitaarakkoorden in onze kennisbank!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/am7-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/b7-akkoord-gitaar": {
+    "title": "B7 akkoord gitaar",
+    "metadesc": "Wil je graag het B7 akkoord op de gitaar leren spelen? Lees dan eens ons artikel! Ook vind je in onze kennisbank nog veel meer gitaarakoorden!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/b7-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/gm-akkoord-gitaar-g-mineur": {
+    "title": "Gm akkoord gitaar (G mineur)",
+    "metadesc": "Ben je benieuwd hoe je het Gm akkoord (G mineur) op de gitaar speelt? Bekijk dan eens dit artikel! Bovendien vind je in onze kennisbank nog veel meer gitaarakkoorden.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/gm-akkoord-gitaar-g-mineur/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/f7-akkoord-gitaar": {
+    "title": "F7 akkoord gitaar",
+    "metadesc": "Wil je het F7 akkoord op de gitaar leren spelen? Lees dan eens ons artikel! Ook vind je in onze kennisbank meer gitaarakkoorden!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/f7-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/e-akkoord-gitaar": {
+    "title": "E akkoord gitaar | OnlineMuziekCursus.nl",
+    "metadesc": "E akkoord op de gitaar leren spelen bekijk hier het akkoord diagram met duidelijke video over het E akkoord.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/e-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/em7-akkoord-gitaar": {
+    "title": "Em7 akkoord gitaar",
+    "metadesc": "Ben je benieuwd hoe je het Em7 akkoord speelt? Lees dan eens ons artikel! In onze kennisbank vind je nog veel meer gitaarakkoorden!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/em7-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/fm7-akkoord": {
+    "title": "Fm7 akkoord gitaar",
+    "metadesc": "Wil je het Fm7 akkoord in de vingers krijgen? Lees dan eens ons artikel. In onze kennisbank vind je nog veel meer gitaarakkoorden!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/fm7-akkoord/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/bm7-akkoord-gitaar": {
+    "title": "Bm7 akkoord gitaar",
+    "metadesc": "Wil je meer weten over het Bm7 akkoord en hoe je deze op de gitaar speelt? Lees dan ons artikel! Bekijk ook eens onze kennisbank voor nog meer gitaarakkoorden.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/bm7-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/cm7-akkoord-gitaar": {
+    "title": "Cm7 akkoord gitaar",
+    "metadesc": "Wil je het Cm7 akkoord op de gitaar leren spelen? Dan ben je hier aan het juiste adres! Bekijk ook eens onze overige artikelen over gitaarakkoorden in onze kennisbank!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/cm7-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/dm7-akkoord-gitaar": {
+    "title": "Dm7 akkoord gitaar",
+    "metadesc": "Wil je weten hoe je het Dm7 akkoord speelt op de gitaar? Lees dan eens ons artikel! Lees ook onze overige artikelen over gitaarakkoorden in onze kennisbank!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/dm7-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/b-akkoord-gitaar": {
+    "title": "B Akkoord Gitaar (Video + Akkoord Diagram) | OnlineMuziekCursus.nl",
+    "metadesc": "Om een B akkoord goed te kunnen spelen zul je met je wijsvinger meerdere snaren tegelijkertijd in moeten drukken. Bekijk hier de video met akkoord diagram",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/b-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/f-akkoord-gitaar": {
+    "title": "F Akkoord Gitaar - OnlineMuziekCursus.nl",
+    "metadesc": "Hoe pak ik eenF akkoord? F is een barré-akkoord, dat wil zeggen dat je met één vinger alle snaren indrukt. Je wijsvinger plaats je over de gehele breedte van de eerste fret....",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/f-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden-leren-spelen/gm7-akkoord-gitaar": {
+    "title": "Gm7 akkoord gitaar",
+    "metadesc": "Ben je benieuwd hoe je het Gm7 akkoord speelt? Lees dan eens ons artikel! Bekijk ook onze overige artikelen in onze kennisbank van gitaarakkoorden!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden-leren-spelen/gm7-akkoord-gitaar/",
+    "robots": "index, follow"
+  },
+  "simpele-popliedjes-om-je-zang-mee-te-oefenen": {
+    "title": "Simpele popliedjes om je zang mee te oefenen | Onlinemuziekcursus.nl",
+    "metadesc": "Zoek je simpele popliedjes om je zang mee te oefenen? Bekijk dan eens deze lijst. Ze zijn leuk, toegankelijk en bieden je voldoende uitdaging om beter te leren zingen.",
+    "canonical": "https://onlinemuziekcursus.nl/simpele-popliedjes-om-je-zang-mee-te-oefenen/",
+    "robots": "index, follow"
+  },
+  "stembereik-voor-zangers": {
+    "title": "Stembereik voor zangers",
+    "metadesc": "Als zanger is het handig om te weten wat je stembereik is. Hoe hoog en hoe laag kun je zingen? Op welke tonen kun je krachtig zingen, en welke nog niet?",
+    "canonical": "https://onlinemuziekcursus.nl/stembereik-voor-zangers/",
+    "robots": "index, follow"
+  },
+  "boventonen-leren-zingen": {
+    "title": "Boventonen leren zingen en boventoon technieken",
+    "metadesc": "Boventonen hebben frequenties die veelvouden zijn van de frequentie van een grondtoon. De boventonen vormen een vaste reeks, afhankelijk van de grondtoon.",
+    "canonical": "https://onlinemuziekcursus.nl/boventonen-leren-zingen/",
+    "robots": "index, follow"
+  },
+  "intervallen-majeur-en-mineur": {
+    "title": "Intervallen majeur en mineur",
+    "metadesc": "Intervallen zijn afstanden tussen twee tonen in een toonladder. De naamgeving van de intervallen vloeit voort uit de onderlinge afstanden van tonen.",
+    "canonical": "https://onlinemuziekcursus.nl/intervallen-majeur-en-mineur/",
+    "robots": "index, follow"
+  },
+  "noten-en-akkoorden-op-de-gitaar": {
+    "title": "Noten en akkoorden op de gitaar",
+    "metadesc": "Noten en akkoorden leren op de gitaar, hier vind je een duidelijke uitleg over de noten en akkoorden met het gebruik van een capo.",
+    "canonical": "https://onlinemuziekcursus.nl/noten-en-akkoorden-op-de-gitaar/",
+    "robots": "index, follow"
+  },
+  "bladmuziek-voor-drummers": {
+    "title": "Bladmuziek voor drummers | Online Drumcursus bij onlinemuziekcursus.nl",
+    "metadesc": "Voor drummers is er speciale bladmuziek. Elk onderdeel van het bladmuziek heeft zijn eigen regel, bestel hier de online drumcursus!",
+    "canonical": "https://onlinemuziekcursus.nl/bladmuziek-voor-drummers/",
+    "robots": "index, follow"
+  },
+  "drumstokken": {
+    "title": "Drumstokken om te drummen | OnlineMuziekCursus.nl",
+    "metadesc": "Drumstokken zijn verkrijgbaar in verschillende lengtes en diktes. De verschillende maten, zijn toepasbaar bij verschillende muziekstijlen.",
+    "canonical": "https://onlinemuziekcursus.nl/drumstokken/",
+    "robots": "index, follow"
+  },
+  "gitaarakkoorden": {
+    "title": "Gitaarakkoorden leren spelen",
+    "metadesc": "Leer alles over gitaarakkoorden! Van basis tot complexe akkoorden, ontdek hoe je ze speelt en gebruikt. Start vandaag nog met gitaarspelen!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarakkoorden/",
+    "robots": "index, follow"
+  },
+  "muziekles-online": {
+    "title": "Online muziekles | Muziekles online - OnlineMuziekCursus.nl",
+    "metadesc": "Start met een muziekles online. Online gitaarcursus, pianocursus, zangcursus, drumcursus, ukelele cursus. Start direct met een online gratis proefles!",
+    "canonical": "https://onlinemuziekcursus.nl/muziekles-online/",
+    "robots": "index, follow"
+  },
+  "online-muziekles": {
+    "title": "Online muziekles | wij hebben 14 verschillende muziekcursussen",
+    "metadesc": "Ontdek online muziekles: gitaar, piano, drums, zang & ukelele! Betaalbaar en laagdrempelig leren spelen of zingen. Start vandaag nog met jouw muzikale reis!",
+    "canonical": "https://onlinemuziekcursus.nl/online-muziekles/",
+    "robots": "index, follow"
+  },
+  "muziekles": {
+    "title": "Muziekles",
+    "metadesc": "",
+    "canonical": "https://onlinemuziekcursus.nl/muziekles/",
+    "robots": "index,follow"
+  },
+  "online-gitaar-leren-spelen": {
+    "title": "Online gitaar leren spelen | Online Muziekcursus.nl",
+    "metadesc": "Jij kunt bij ons snel online gitaar leren spelen. Bekijk de lessen wanneer jij wilt en leer van de beste docenten. Bestel de cursus en begin meteen.",
+    "canonical": "https://onlinemuziekcursus.nl/online-gitaar-leren-spelen/",
+    "robots": "index, follow"
+  },
+  "flageoletten-spelen-op-de-gitaar": {
+    "title": "Flageoletten spelen op de gitaar",
+    "metadesc": "Flageoletten spelen op de gitaar, Wanneer je een gitaar bespeelt, kun je boventonen spelen door middel van het dempen van een snaar op een zeer lichte plek.",
+    "canonical": "https://onlinemuziekcursus.nl/flageoletten-spelen-op-de-gitaar/",
+    "robots": "index, follow"
+  },
+  "strumming-patterns-voor-gitaristen": {
+    "title": "Strumming patterns voor gitaristen",
+    "metadesc": "Als gitarist is het belangrijk dat je een duidelijk, constant ritme kunt spelen en niet alles even hard speelt. Met strumming patterns kun je goed oefenen.",
+    "canonical": "https://onlinemuziekcursus.nl/strumming-patterns-voor-gitaristen/",
+    "robots": "index, follow"
+  },
+  "elektrische-gitaar-leren-spelen": {
+    "title": "Elektrische gitaar leren spelen | Online Muziek Cursus",
+    "metadesc": "Iedereen kan elektrische gitaar leren spelen dankzij onze online cursussen. Bestel de cursus en krijg levenslang toegang tot professioneel lesmateriaal.",
+    "canonical": "https://onlinemuziekcursus.nl/elektrische-gitaar-leren-spelen",
+    "robots": "index, follow"
+  },
+  "gitaarsteun-kan-handig-zijn-om-te-hebben": {
+    "title": "Gitaarsteun kan handig zijn om te hebben | OnlineMuziekCursus.nl",
+    "metadesc": "Een gitaarsteun kan handig zijn om te hebben, want deze zorgt ervoor dat je speelt met een betere houding. Investeer dan ook zeker in een gitaarsteun.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarsteun-kan-handig-zijn-om-te-hebben/",
+    "robots": "index, follow"
+  },
+  "akoestische-elektrische-gitaar-spelen": {
+    "title": "Akoestische of elektrische gitaar spelen? - OnlineMuziekCursus.nl",
+    "metadesc": "ls je elektrisch gitaar wilt spelen, heb je een versterker, jackkabel en stroom nodig. Je kunt met of zonder plectrum spelen",
+    "canonical": "https://onlinemuziekcursus.nl/akoestische-elektrische-gitaar-spelen/",
+    "robots": "index, follow"
+  },
+  "tips-om-gitaarschade-te-voorkomen": {
+    "title": "Tips om gitaarschade te voorkomen | OnlineMuziekCursus.nl",
+    "metadesc": "Wij hebben belangrijke tips om gitaarschade te voorkomen. Zowel qua gebruik als qua opbergen. Houd je gitaar goed onderhouden en schadevrij om maximaal van je instrument te blijven genieten.",
+    "canonical": "https://onlinemuziekcursus.nl/tips-om-gitaarschade-te-voorkomen/",
+    "robots": "index, follow"
+  },
+  "gitaarelement": {
+    "title": "Elementen voor een gitaar | Online Muziek Cursus",
+    "metadesc": "Actieve versus passieve elementen. Je hebt misschien wel eens gehoord van EMG-elementen. Dat zijn speciale elementen die negen van de tien keer actief zijn",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarelement/",
+    "robots": "index, follow"
+  },
+  "leren-tokkelen": {
+    "title": "Leren tokkelen - OnlineMuziekCursus.nl",
+    "metadesc": "Leren tokkelen: Samen gaan we aan de slag met verschillende tokkeltechnieken en gaan we bekende tokkelnummers spelen.",
+    "canonical": "https://onlinemuziekcursus.nl/leren-tokkelen/",
+    "robots": "index, follow"
+  },
+  "essentiele-gitaartechnieken-voor-heavy-metal": {
+    "title": "Essentiële gitaartechnieken voor heavy metal - Online Muziek Cursus",
+    "metadesc": "Sommige gitaristen zoeken de duisterdere kant van de muziek op en verkiezen heavy metal boven elk ander genre. Het geluid van scheurende gitaren lees verder",
+    "canonical": "https://onlinemuziekcursus.nl/essentiele-gitaartechnieken-voor-heavy-metal/",
+    "robots": "index, follow"
+  },
+  "online-gitaar-les": {
+    "title": "Online gitaar les | Online Muziekcursus.nl",
+    "metadesc": "Online gitaar les nodig? Online Muziekcursus.nl biedt lessen tegen een eenmalige prijs. ✅ Levenslang toegang tot lesmateriaal. ✅ 8000+ verkochte cursussen.",
+    "canonical": "https://onlinemuziekcursus.nl/online-gitaar-les/",
+    "robots": "index, follow"
+  },
+  "de-gitaar": {
+    "title": "De gitaar hoort bij de populairste instrumenten | OnlineMuziekCursus.nl",
+    "metadesc": "De gitaar is een van de populairste instrumenten om muziek mee leren te maken. Sterker nog, de gitaar is niet weg te denken uit veel muziekgenres.",
+    "canonical": "https://onlinemuziekcursus.nl/de-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaarlessen-online": {
+    "title": "Gitaarlessen online | Online Muziekcursus.nl",
+    "metadesc": "Gitaarlessen online nodig? Online Muziekcursus.nl biedt lessen tegen een eenmalige prijs. ✅ Levenslang toegang tot lesmateriaal. ✅ 8000+ verkochte cursussen.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarlessen-online/",
+    "robots": "index, follow"
+  },
+  "essentiele-gitaartechnieken-voor-rockmuziek": {
+    "title": "Essentiële gitaartechnieken voor rockmuziek | Online Muziek Cursus",
+    "metadesc": "De gitaar is hét instrument van de rockmuziek. Iedereen kent wel gitaristen die naam hebben gemaakt als rockmuzikant: Slash van Guns N Roses, Chuck Berry",
+    "canonical": "https://onlinemuziekcursus.nl/essentiele-gitaartechnieken-voor-rockmuziek/",
+    "robots": "index, follow"
+  },
+  "fingerpicking-voor-gitaristen": {
+    "title": "Fingerpicking voor gitaristen | OnlineMuziekCursus.nl",
+    "metadesc": "Fingerpicking, In bladmuziek voor gitaristen zul je ‘fingerpicking patterns’ tegenkomen. Vind hier meer info, OnlineMuziekCursus.nl",
+    "canonical": "https://onlinemuziekcursus.nl/fingerpicking-voor-gitaristen/",
+    "robots": "index, follow"
+  },
+  "gitaar": {
+    "title": "Gitaarles",
+    "metadesc": "",
+    "canonical": "https://onlinemuziekcursus.nl/gitaar/",
+    "robots": "index,follow"
+  },
+  "online-gitaar-lessen": {
+    "title": "Online gitaar lessen | Online Muziekcursus.nl",
+    "metadesc": "Online gitaar lessen nodig? Online Muziekcursus.nl biedt lessen tegen een eenmalige prijs. ✅ Levenslang toegang tot lesmateriaal. ✅ 8000+ verkochte cursussen.",
+    "canonical": "https://onlinemuziekcursus.nl/online-gitaar-lessen/",
+    "robots": "index, follow"
+  },
+  "essentiele-gitaartechnieken-voor-jazz": {
+    "title": "Essentiële gitaartechnieken voor jazz | Online Muziek Cursus",
+    "metadesc": "Jazzakkoorden stellen je linkerhand ontzettend op de proef. Je moet daarom snel en perfect de raarste akkoorden kunnen overpakken, lees verder.",
+    "canonical": "https://onlinemuziekcursus.nl/essentiele-gitaartechnieken-voor-jazz/",
+    "robots": "index, follow"
+  },
+  "waar-moet-je-op-letten-bij-het-kopen-van-een-gitaar": {
+    "title": "Gitaar kopen: Waar moet je op letten?",
+    "metadesc": "Gitaar kopen? Ontdek de cruciale factoren voor een goede gitaar. Vermijd een miskoop en vind de perfecte gitaar die bij je past. Lees meer!",
+    "canonical": "https://onlinemuziekcursus.nl/waar-moet-je-op-letten-bij-het-kopen-van-een-gitaar/",
+    "robots": "index, follow"
+  },
+  "gitaaronderdelen": {
+    "title": "Gitaar onderdelen, welke zijn er allemaal! | OnlineMuziekCursus.nl",
+    "metadesc": "Gitaaronderdelen nodig voor reparatie of onderhoud van uw gitaar? Ontdek de meest voorkomende onderdelen en hoe u ze vervangt. Bekijk het nu!",
+    "canonical": "https://onlinemuziekcursus.nl/gitaaronderdelen/",
+    "robots": "index, follow"
+  },
+  "akoestische-gitaar": {
+    "title": "Akoestische gitaar | OnlineMuziekCursus.nl",
+    "metadesc": "De akoestische gitaar, ook wel bekend als de klassieke gitaar is een instrument met een holle klankkast, een hals en in principe zes snaren, maar hoeft niet",
+    "canonical": "https://onlinemuziekcursus.nl/akoestische-gitaar/",
+    "robots": "index, follow"
+  },
+  "de-juiste-elektrische-gitaar-kiezen": {
+    "title": "Elektrische Gitaar Kiezen: De Ultieme Gids",
+    "metadesc": "Een elektrische gitaar kopen, speel je al een tijdje akoestisch en ben je benieuwd naar de elektrische gitaar? waar moet je op letten bij het kopen.",
+    "canonical": "https://onlinemuziekcursus.nl/de-juiste-elektrische-gitaar-kiezen/",
+    "robots": "index, follow"
+  },
+  "houtsoorten-voor-een-gitaar": {
+    "title": "Houtsoorten voor een gitaar | Online Muziek Cursus",
+    "metadesc": "Ontdek de invloed van houtsoorten op gitaarklank! Overzicht van mahonie, esdoorn & meer. Kies het perfecte hout voor jouw sound. Lees verder!",
+    "canonical": "https://onlinemuziekcursus.nl/houtsoorten-voor-een-gitaar/",
+    "robots": "index, follow"
+  },
+  "essentiele-gitaartechnieken-voor-popmuziek": {
+    "title": "Essentiële gitaartechnieken voor popmuziek | Online Muziek Cursus",
+    "metadesc": "De gitaar wordt veelal geprezen om haar flexibiliteit. Je kunt het zo gek niet bedenken of het is wel op een gitaar te bespelen.",
+    "canonical": "https://onlinemuziekcursus.nl/essentiele-gitaartechnieken-voor-popmuziek/",
+    "robots": "index, follow"
+  },
+  "solfege-gehoortraining": {
+    "title": "Solfege / gehoortraining - OnlineMuziekCursus.nl",
+    "metadesc": "Solfege/gehoortraining - Als muzikant is je gehoor onwijs belangrijk: daar gaan wij in deze cursus aan werken! Kijk snel voor meer info",
+    "canonical": "https://onlinemuziekcursus.nl/solfege-gehoortraining/",
+    "robots": "index, follow"
+  },
+  "noten-leren-lezen": {
+    "title": "Noten leren lezen - OnlineMuziekCursus.nl",
+    "metadesc": "Noten leren lezen, Na deze cursus ben je in staat om zelf aan de slag te gaan met het lezen van bladmuziek!",
+    "canonical": "https://onlinemuziekcursus.nl/noten-leren-lezen/",
+    "robots": "index, follow"
+  },
+  "in-het-ritme-leren-spelen-voor-pianisten": {
+    "title": "In het ritme leren spelen voor pianisten",
+    "metadesc": "In het ritme leren spelen voor pianisten, Als je piano leert spelen, moet je veel dingen tegelijk leren. Je leert noten lezen, een juiste houding etc etc",
+    "canonical": "https://onlinemuziekcursus.nl/in-het-ritme-leren-spelen-voor-pianisten/",
+    "robots": "index, follow"
+  },
+  "compositie-songwriting": {
+    "title": "Compositie / songwriting - OnlineMuziekCursus.nl",
+    "metadesc": "Compositie en songwriting - Wil je je eigen muziek gaan maken? Met de lessen Compositie help ik je op weg om die droom waar te maken.",
+    "canonical": "https://onlinemuziekcursus.nl/compositie-songwriting/",
+    "robots": "index, follow"
+  },
+  "componisten-voor-beginners": {
+    "title": "Componisten voor beginners | Online Muziek Cursus",
+    "metadesc": "Wanneer je begint met pianospelen zal je waarschijnlijk meteen de mooiste stukken willen spelen. Echter, voordat je stukken van Mozart of, lees verder",
+    "canonical": "https://onlinemuziekcursus.nl/componisten-voor-beginners/",
+    "robots": "index, follow"
+  },
+  "muziekinstrumenten-de-drie-bekendste": {
+    "title": "Bekende muziekinstrumenten: Top 3",
+    "metadesc": "Ontdek de top 3 bekendste muziekinstrumenten: gitaar, piano & drums. Leer over hun unieke klank en populariteit door de jaren heen. Lees meer!",
+    "canonical": "https://onlinemuziekcursus.nl/muziekinstrumenten-de-drie-bekendste/",
+    "robots": "index, follow"
+  },
+  "gigbag-of-koffer-onmisbaar-als-je-op-stap-gaat": {
+    "title": "Gigbag of koffer: onmisbaar als je op stap gaat | OnlineMuziekCursus.nl",
+    "metadesc": "Een gigbag of koffer: onmisbaar als je op stap gaat met je gitaar. Lees hier over de mogelijkheden en de punten waar je op moet letten bij aanschaf.",
+    "canonical": "https://onlinemuziekcursus.nl/gigbag-of-koffer-onmisbaar-als-je-op-stap-gaat/",
+    "robots": "index, follow"
+  },
+  "voordelen-online-muziekcursus-beginners": {
+    "title": "Ontdek de voordelen van online muziekles voor beginners",
+    "metadesc": "Leer muziek maken vanuit huis! Ontdek hoe online muziekcursussen flexibiliteit, kwaliteit en plezier bieden – perfect voor elke beginnende muzikant.",
+    "canonical": "https://onlinemuziekcursus.nl/voordelen-online-muziekcursus-beginners/",
+    "robots": "index, follow"
+  },
+  "soorten-gitaren": {
+    "title": "Gitaarsoorten: Overzicht & Handige Artikelen",
+    "metadesc": "Ontdek de wereld van gitaren! Van akoestisch tot elektrisch, jumbo tot stratocaster. Leer alles over gitaarsoorten en vind de perfecte gitaar voor jou!",
+    "canonical": "https://onlinemuziekcursus.nl/soorten-gitaren/",
+    "robots": "index, follow"
+  },
+  "zorg-goed-voor-je-stembanden-met-de-tips": {
+    "title": "Zorg goed voor je stembanden met deze tips | OnlineMuziekCursus.nl",
+    "metadesc": "Zorg goed voor je stembanden met deze tips. Je hebt maar een stem, dus wees daar zuinig op. Met deze tips houd je jouw stem in optimale conditie.",
+    "canonical": "https://onlinemuziekcursus.nl/zorg-goed-voor-je-stembanden-met-de-tips/",
+    "robots": "index, follow"
+  },
+  "gitaar-stemmen": {
+    "title": "Gitaar stemmen - OnlineMuziekCursus.nl",
+    "metadesc": "Gitaar stemmen, Wanneer je korte of langere tijd geleden een gitaar hebt aangeschaft, is het belangrijk dat deze regelmatig gestemd wordt.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaar-stemmen/",
+    "robots": "index, follow"
+  },
+  "lax-vox-methode-voor-zangers": {
+    "title": "Lax Vox methode voor zangers | OnlineMuziekCursus.nl",
+    "metadesc": "De lax vox methode, lax vox betekent relaxatie van de stem. Wat heb je nodig om te kunnen werken met de LAX VOX METHODE? vind hier alle info!",
+    "canonical": "https://onlinemuziekcursus.nl/lax-vox-methode-voor-zangers/",
+    "robots": "index, follow"
+  },
+  "inzing-oefeningen": {
+    "title": "Inzing oefeningen - OnlineMuziekCursus.nl",
+    "metadesc": "Leren tokkelen: Samen gaan we aan de slag met verschillende tokkeltechnieken en gaan we bekende tokkelnummers spelen.",
+    "canonical": "https://onlinemuziekcursus.nl/inzing-oefeningen/",
+    "robots": "index, follow"
+  },
+  "leren-zingen-11-stappen": {
+    "title": "Leren zingen in 11stappen - OnlineMuziekCursus.nl",
+    "metadesc": "Wilt u graag leren zingen? Het is voor iedereen mogelijk! Hier volgen 11 stappen, waarin staat hoe u een goede basis legt om het zingen eigen te maken.",
+    "canonical": "https://onlinemuziekcursus.nl/leren-zingen-11-stappen/",
+    "robots": "index, follow"
+  },
+  "adem-en-ademvocaalruimtes-voor-zangers": {
+    "title": "Adem en ademvocaalruimtes voor zangers",
+    "metadesc": "Door te werken vanuit de ERVAARBARE ADEM (methode van Ilse Middendorf) kun je leren om volledig, gelijkmatig en ruimer te ademen.",
+    "canonical": "https://onlinemuziekcursus.nl/adem-en-ademvocaalruimtes-voor-zangers/",
+    "robots": "index, follow"
+  },
+  "een-stemapparaatje-een-onmisbaar-hulpmiddel": {
+    "title": "Een stemapparaatje: een onmisbaar hulpmiddel | OnlineMuziekCursus.nl",
+    "metadesc": "Een stemapparaatje is een onmisbaar hulpmiddel omdat dit ervoor zorgt dat je gitaar te allen tijde juist gestemd is en je dus zuiver gitaar kunt spelen.",
+    "canonical": "https://onlinemuziekcursus.nl/een-stemapparaatje-een-onmisbaar-hulpmiddel/",
+    "robots": "index, follow"
+  },
+  "complete-vocal-technique": {
+    "title": "Complete Vocal Technique - OnlineMuziekCursus.nl",
+    "metadesc": "De online zangcursus word gegeven volgens de Complete Vocal Technique, neem een kijkje wat er geleerd word in de cursus, en vraag een gratis proefles aan!!",
+    "canonical": "https://onlinemuziekcursus.nl/complete-vocal-technique/",
+    "robots": "index, follow"
+  },
+  "leren-improviseren-voor-zangers": {
+    "title": "Leren improviseren voor zangers - OnlineMuziekCursus.nl",
+    "metadesc": "Als zanger zing je vaak vast omlijnde stukken. De tekst is van tevoren al bepaald, de toonhoogte, het tempo, vaak wordt er zelfs al een bepaalde klankkleur van je verwacht",
+    "canonical": "https://onlinemuziekcursus.nl/leren-improviseren-voor-zangers/",
+    "robots": "index, follow"
+  },
+  "zingen": {
+    "title": "Zangles",
+    "metadesc": "",
+    "canonical": "https://onlinemuziekcursus.nl/zingen/",
+    "robots": "index,follow"
+  },
+  "simpele-popliedjes-om-op-de-piano-mee-te-spelen": {
+    "title": "Simpele popliedjes om op de piano mee te spelen | OnlineMuziekCursus.nl",
+    "metadesc": "Ben je op zoek naar simpele popliedjes om op de piano mee te spelen? Wij hebben enkele suggesties. Probeer deze popliedjes en ontwikkel je vaardigheden.",
+    "canonical": "https://onlinemuziekcursus.nl/simpele-popliedjes-om-op-de-piano-mee-te-spelen/",
+    "robots": "index, follow"
+  },
+  "keyboard-op-de-computer-spelen": {
+    "title": "Keyboard op de computer spelen | OnlineMuziekCursus.nl",
+    "metadesc": "Keyboard op de computer spelen kan een uitstekende manier zijn om piano te leren spelen. Kijk hier waar je dit gratis kunt doen.",
+    "canonical": "https://onlinemuziekcursus.nl/keyboard-op-de-computer-spelen/",
+    "robots": "index, follow"
+  },
+  "online-pianoles-voor-beginners": {
+    "title": "Online pianoles voor beginners | Online Muziek Cursus",
+    "metadesc": "Volg online pianoles voor beginners en leer stapsgewijs piano spelen dankzij video’s met duidelijke uitleg. Bestel de cursus en oefen wanneer jij wilt.",
+    "canonical": "https://onlinemuziekcursus.nl/online-pianoles-voor-beginners",
+    "robots": "index, follow"
+  },
+  "piano-leren-spelen-op-keyboard": {
+    "title": "Piano leren spelen op keyboard | Online Muziek Cursus",
+    "metadesc": "Wil jij piano leren spelen op jouw keyboard? Op onze website profiteer je van professionele lessen je die altijd kunt bekijken. Boek nu deze leuke cursus.",
+    "canonical": "https://onlinemuziekcursus.nl/piano-leren-spelen-op-keyboard",
+    "robots": "index, follow"
+  },
+  "onderhoud-van-je-piano": {
+    "title": "Onderhoud van je piano | Online Muziek Cursus",
+    "metadesc": "Wanneer je een piano hebt aangeschaft, wil je natuurlijk dat deze in zo’n goed mogelijke staat blijft. Het is een vrij kwetsbaar instrument, lees verder.",
+    "canonical": "https://onlinemuziekcursus.nl/onderhoud-van-je-piano/",
+    "robots": "index, follow"
+  },
+  "online-pianolessen": {
+    "title": "Online pianolessen volgen - OnlineMuziekCursus.nl",
+    "metadesc": "Leer piano spelen met online pianolessen! Altijd beschikbaar. Volg online pianolessen. Leer binnen enkele weken alle basistechnieken met online pianolessen.",
+    "canonical": "https://onlinemuziekcursus.nl/online-pianolessen/",
+    "robots": "index, follow"
+  },
+  "hoe-maak-je-je-piano-schoon": {
+    "title": "Hoe maak je je piano schoon? | OnlineMuziekCursus.nl",
+    "metadesc": "Hoe maak je je piano schoon? Wij vertellen je graag wat je het beste wel en niet kunt doen om je piano goed schoon te maken en langer mee te laten gaan.",
+    "canonical": "https://onlinemuziekcursus.nl/hoe-maak-je-je-piano-schoon/",
+    "robots": "index, follow"
+  },
+  "wat-is-een-piano": {
+    "title": "Piano Uitleg: Info & Alles Over de Piano",
+    "metadesc": "Ontdek alles over de piano! Leer over de geschiedenis, werking, soorten en onderhoud van dit prachtige instrument. Word een piano kenner en lees verder!",
+    "canonical": "https://onlinemuziekcursus.nl/wat-is-een-piano/",
+    "robots": "index, follow"
+  },
+  "de-geschiedenis-van-de-piano-in-een-notendop": {
+    "title": "De geschiedenis van de piano in een notendop | Online Muziek Cursus",
+    "metadesc": "De piano is tegenwoordig één van de bekendste instrumenten op aarde, het heeft wel enige tijd geduurd voordat het instrument zulke bekendheid verworven had.",
+    "canonical": "https://onlinemuziekcursus.nl/de-geschiedenis-van-de-piano-in-een-notendop/",
+    "robots": "index, follow"
+  },
+  "de-dos-en-donts-bij-het-leren-piano-spelen": {
+    "title": "De dos en donts bij het leren piano spelen - OnlineMuziekCursus.nl",
+    "metadesc": "Als je een nieuw stuk wilt instuderen op de piano zijn er een aantal Do’s & Donts die je kunnen helpen om sneller het gewenste resultaat te bereiken.",
+    "canonical": "https://onlinemuziekcursus.nl/de-dos-en-donts-bij-het-leren-piano-spelen/",
+    "robots": "index, follow"
+  },
+  "pianolessen-online": {
+    "title": "Pianolessen online volgen - OnlineMuziekCursus.nl",
+    "metadesc": "Pianolessen online volgen! Altijd beschikbaar. Volg altijd pianolessen online. Leer binnen enkele weken alle basistechnieken met onze pianolessen online.",
+    "canonical": "https://onlinemuziekcursus.nl/pianolessen-online/",
+    "robots": "index, follow"
+  },
+  "online-piano-toetsenbord": {
+    "title": "Online piano toetsenbord | Online Muziek Cursus",
+    "metadesc": "Bespeel een online piano met je toetsenbord. Oefen je muziekstukken of verken voor het eerst de piano. Contacteer ons voor advies over diverse software.",
+    "canonical": "https://onlinemuziekcursus.nl/online-piano-toetsenbord",
+    "robots": "index, follow"
+  },
+  "piano-tips-voor-beginners": {
+    "title": "Piano tips voor beginners - OnlineMuziekCursus.nl",
+    "metadesc": "Piano spelen is niet moeilijk. Iedereen kan het leren. Je speelt al snel je eerste liedjes op de piano dankzij deze piano tips voor beginners.",
+    "canonical": "https://onlinemuziekcursus.nl/piano-tips-voor-beginners/",
+    "robots": "index, follow"
+  },
+  "piano": {
+    "title": "Pianoles",
+    "metadesc": "",
+    "canonical": "https://onlinemuziekcursus.nl/piano/",
+    "robots": "index,follow"
+  },
+  "piano-bladmuziek": {
+    "title": "Piano bladmuziek | bladmuziek is muziek die op papier is vastgelegd",
+    "metadesc": "Door bladmuziek te lezen en te spelen, kunnen musici een muziekstuk leren spelen. Vooral in de klassieke muziek is deze manier de meest voorkomende.",
+    "canonical": "https://onlinemuziekcursus.nl/piano-bladmuziek/",
+    "robots": "index, follow"
+  },
+  "piano-kopen-of-huren": {
+    "title": "Piano: kopen of huren? | Online Muziek Cursus",
+    "metadesc": "Wanneer je hebt besloten pianoles te nemen, lijkt de volgende stap de aanschaf van een daadwerkelijke piano. Dit is echter makkelijker gezegd dan gedaan.",
+    "canonical": "https://onlinemuziekcursus.nl/piano-kopen-of-huren/",
+    "robots": "index, follow"
+  },
+  "aandachtspunten-voor-het-kopen-van-een-akoestische-piano": {
+    "title": "Aandachtspunten voor het kopen van een akoestische piano...",
+    "metadesc": "Wat zijn aandachtspunten voor het kopen van een akoestische piano? Wij bespreken de belangrijkste punten met je, zodat je zeker een goede aankoop doet.",
+    "canonical": "https://onlinemuziekcursus.nl/aandachtspunten-voor-het-kopen-van-een-akoestische-piano/",
+    "robots": "index, follow"
+  },
+  "drumstel": {
+    "title": "Drumles",
+    "metadesc": "",
+    "canonical": "https://onlinemuziekcursus.nl/drumstel/",
+    "robots": "index,follow"
+  },
+  "wat-is-een-drumstel": {
+    "title": "Drumstel: Onderdelen & Opbouw | Uitleg",
+    "metadesc": "Leer alles over de onderdelen & opbouw van een drumstel! Van bassdrum tot bekkens, **geen** detail missen. Ontdek hoe het werkt & word een expert!",
+    "canonical": "https://onlinemuziekcursus.nl/wat-is-een-drumstel/",
+    "robots": "index, follow"
+  },
+  "ukelele": {
+    "title": "Ukelele",
+    "metadesc": "",
+    "canonical": "https://onlinemuziekcursus.nl/ukelele/",
+    "robots": "index,follow"
+  },
+  "altijd-al-ukelele-willen-leren-spelen-start-vandaag-nog": {
+    "title": "Altijd al ukelele willen leren spelen? Start vandaag nog",
+    "metadesc": "Heb je altijd al ukelele willen spelen? Dit is het moment. Dit betaalbare instrument brengt je gegarandeerd veel plezier. In alle opzichten is de ukelele zeer toegankelijk.",
+    "canonical": "https://onlinemuziekcursus.nl/altijd-al-ukelele-willen-leren-spelen-start-vandaag-nog/",
+    "robots": "index, follow"
+  },
+  "author/johan-koelewijn": {
+    "title": "Johan Koelewijn - ONLINEMUZIEKCURSUS.NL",
+    "metadesc": "",
+    "canonical": "https://onlinemuziekcursus.nl/author/johan-koelewijn/",
+    "robots": "index, follow"
+  },
+  "over-ons": {
+    "title": "Over ons - Online Muziek Cursus",
+    "metadesc": "Bij de Online Muziek Cursus verkopen we vele verschillende cursussen tegen een eenmalige betaling, en je hebt levenslang 24/7 toegang tot de muzieklessen.",
+    "canonical": "https://onlinemuziekcursus.nl/over-ons/",
+    "robots": "index, follow"
+  },
+  "contact": {
+    "title": "Contact - Online Muziek Cursus",
+    "metadesc": "We komen graag met je in contact, dus laat wat van je horen.",
+    "canonical": "https://onlinemuziekcursus.nl/contact/",
+    "robots": "index, follow"
+  },
+  "affiliates": {
+    "title": "Affiliate programma van online muziek cursus",
+    "metadesc": "Affiliate programma, ontvang als affiliate 50% commissie per verkochte cursus.",
+    "canonical": "https://onlinemuziekcursus.nl/affiliates/",
+    "robots": "index, follow"
+  },
+  "affiliate-programma": {
+    "title": "Affiliate programma - Online Muziek Cursus",
+    "metadesc": "Wil jij als affiliate geld verdienen met onze cursussen, meld je dan snel aan en start met het promoten van onze muziekcursussen.",
+    "canonical": "https://onlinemuziekcursus.nl/affiliate-programma/",
+    "robots": "index, follow"
+  },
+  "blog": {
+    "title": "Online Muziek Cursus",
+    "metadesc": "",
+    "canonical": "https://onlinemuziekcursus.nl/blog/",
+    "robots": "index, follow"
+  },
+  "algemene-voorwaarden": {
+    "title": "Algemene voorwaarden",
+    "metadesc": "Algemene voorwaarden",
+    "canonical": "https://onlinemuziekcursus.nl/algemene-voorwaarden/",
+    "robots": "index, follow"
+  },
+  "anti-spam-beleid": {
+    "title": "Anti spam beleid - OnlineMuziekCursus.nl",
+    "metadesc": "Anti spam beleid",
+    "canonical": "https://onlinemuziekcursus.nl/anti-spam-beleid/",
+    "robots": "index, follow"
+  },
+  "disclaimer": {
+    "title": "Disclaimer - Online Muziek Cursus",
+    "metadesc": "Disclaimer",
+    "canonical": "https://onlinemuziekcursus.nl/disclaimer/",
+    "robots": "index, follow"
+  },
+  "privacy-policy": {
+    "title": "Privacy policy - Online Muziek Cursus",
+    "metadesc": "Privacy policy",
+    "canonical": "https://onlinemuziekcursus.nl/privacy-policy/",
+    "robots": "index, follow"
+  },
+  "home": {
+    "title": "Online muzieklessen | OnlineMuziekCursus.nl - Muziekschool",
+    "metadesc": "Profiteer met onze online muzieklessen van professioneel lesmateriaal dat je bekijkt wanneer jij wilt. Bestel online muzieklessen en leer op je eigen tempo.",
+    "canonical": "https://onlinemuziekcursus.nl/",
+    "robots": "index, follow"
+  },
+  "zangles": {
+    "title": "Zanglessen voor beginners | Online Muziek Cursus",
+    "metadesc": "Volg online zanglessen voor beginners en leer technieken als de juiste houding, ademhaling en meer. Bestel deze cursus en verbeter je zangstem.",
+    "canonical": "https://onlinemuziekcursus.nl/zangles/",
+    "robots": "index, follow"
+  },
+  "basgitaarles": {
+    "title": "Basgitaar spelen - OnlineMuziekCursus.nl",
+    "metadesc": "Leer online basgitaar spelen en volg de lessen wanneer het jou uitkomt. Bestel deze cursus en profiteer onder andere van HD video’s en onbeperkte toegang.",
+    "canonical": "https://onlinemuziekcursus.nl/basgitaarles/",
+    "robots": "index, follow"
+  },
+  "gitaarles": {
+    "title": "Online gitaarlessen - OnlineMuziekCursus.nl",
+    "metadesc": "Volg bij ons professionele online gitaarlessen en leer wanneer het jou uitkomt. Bestel de cursus en profiteer van levenslang toegang tot de lessen.",
+    "canonical": "https://onlinemuziekcursus.nl/gitaarles",
+    "robots": "index, follow"
+  },
+  "ukelele-les": {
+    "title": "Ukelele les - OnlineMuziekCursus.nl",
+    "metadesc": "Dankzij onze gedreven docenten volg je met plezier ukelele les. Je leert stapsgewijs hoe je het instrument bespeelt. Bestel de cursus en begin meteen.",
+    "canonical": "https://onlinemuziekcursus.nl/ukelele-les/",
+    "robots": "index, follow"
+  },
+  "pianoles": {
+    "title": "Pianoles online - OnlineMuziekCursus.nl",
+    "metadesc": "Leer met onze pianoles online hoe je dit klassieke instrument bespeelt. Bestel nu deze cursus en profiteer van professioneel lesmateriaal.",
+    "canonical": "https://onlinemuziekcursus.nl/pianoles/",
+    "robots": "index, follow"
+  },
+  "drumles": {
+    "title": "Online drumles - OnlineMuziekCursus.nl",
+    "metadesc": "Leer snel drummen met online drumles. Je leert van ervaren professionals en je bekijkt de lessen wanneer je wilt. Bestel dus nu deze geweldige cursus.",
+    "canonical": "https://onlinemuziekcursus.nl/drumles/",
+    "robots": "index, follow"
+  },
+  "dirigeren": {
+    "title": "Leren dirigeren - OnlineMuziekCursus.nl",
+    "metadesc": "Leren dirigeren - na deze cursus weet je alles over dirigeren en kun je zelf aan de slag. Kijk snel voor meer info",
+    "canonical": "https://onlinemuziekcursus.nl/dirigeren/",
+    "robots": "index, follow"
+  },
+  "cursussen": {
+    "title": "14 verschillende online muziek cursussen - Onlinemuziekcursus.nl",
+    "metadesc": "Online muziekcursussen: gitaarcursus, pianocursus, zangcursus, drumcursus, ukelele cursus, basgitaar cursus, on nog veel meer. Leer stap voor stap een instrument bespelen.",
+    "canonical": "https://onlinemuziekcursus.nl/cursussen/",
+    "robots": "index, follow"
+  },
+  "author/j-koelewijn": {
+    "title": "Johan Koelewijn - ONLINEMUZIEKCURSUS.NL",
+    "metadesc": "",
+    "canonical": "https://onlinemuziekcursus.nl/author/j-koelewijn/",
+    "robots": "index, follow"
+  }
+}

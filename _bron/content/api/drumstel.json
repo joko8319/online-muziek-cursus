@@ -1,0 +1,65 @@
+{
+ "amount": 9,
+ "author_id": null,
+ "pages": {
+  "pages": 1
+ },
+ "posts_per_page": [
+  [
+   {
+    "id": 66099,
+    "title": "Drumstokken",
+    "is_sticky": 0,
+    "image": "https://media-01.imu.nl/storage/onlinemuziekcursus.nl/21/wp/Drumstokken-1170x468.jpg",
+    "image_srcset": "https://media-01.imu.nl/storage/onlinemuziekcursus.nl/21/wp/Drumstokken-1170x468.jpg 1170w",
+    "image_title": "Drumstokken",
+    "permalink": "https://onlinemuziekcursus.nl/drumstokken/",
+    "excerpt": "Onderdelen van de drumstok \n De drumstok bestaat uit verschillende onderdelen: \n \n Tip \n Nek \n Versmalling \n Schouder \n Schacht \n Achterkant \n \n De juiste maat \n Drumstokken zijn verkrijgbaar in verschillende lengtes..",
+    "shares_amount": 0,
+    "comments_amount": 0,
+    "legacy_date": "30 juni 2014",
+    "author": "Johan Koelewijn",
+    "author_image": null,
+    "category": "Drumles",
+    "category_url": "https://onlinemuziekcursus.nl/drumstel/",
+    "readtime": 1
+   },
+   {
+    "id": 66095,
+    "title": "Bladmuziek voor drummers",
+    "is_sticky": 0,
+    "image": "https://media-01.imu.nl/storage/onlinemuziekcursus.nl/21/wp/Bladmuziek-riot-in-cell-block-1170x468.png",
+    "image_srcset": "https://media-01.imu.nl/storage/onlinemuziekcursus.nl/21/wp/Bladmuziek-riot-in-cell-block-1170x468.png 1170w",
+    "image_title": "Bladmuziek voor drummers",
+    "permalink": "https://onlinemuziekcursus.nl/bladmuziek-voor-drummers/",
+    "excerpt": "Voor drummers is er speciale bladmuziek. Elk onderdeel van het bladmuziek heeft zijn eigen regel. Zo weet je precies wanneer je welk onderdeel van het drumstel moet spelen. \n &nbsp; \n  \n Om de toonduur aan te geven,..",
+    "shares_amount": 0,
+    "comments_amount": 0,
+    "legacy_date": "08 april 2014",
+    "author": "Johan Koelewijn",
+    "author_image": null,
+    "category": "Drumles",
+    "category_url": "https://onlinemuziekcursus.nl/drumstel/",
+    "readtime": 1
+   },
+   {
+    "id": 66070,
+    "title": "Wat is een drumstel?",
+    "is_sticky": 0,
+    "image": "https://media-01.imu.nl/storage/onlinemuziekcursus.nl/21/wp/Wat-is-een-drumstel-1170x468.jpg",
+    "image_srcset": "https://media-01.imu.nl/storage/onlinemuziekcursus.nl/21/wp/Wat-is-een-drumstel-1170x468.jpg 1170w",
+    "image_title": "Wat is een drumstel?",
+    "permalink": "https://onlinemuziekcursus.nl/wat-is-een-drumstel/",
+    "excerpt": "Wat is een drumstel? Alles over de onderdelen en opbouw Een drumstel is veel meer dan een verzameling trommels en bekkens; het is een veelzijdig en expressief instrument dat de basis vormt van talloze muziekgenres...",
+    "shares_amount": 0,
+    "comments_amount": 0,
+    "legacy_date": "30 juli 2013",
+    "author": "Johan Koelewijn",
+    "author_image": null,
+    "category": "Drumles",
+    "category_url": "https://onlinemuziekcursus.nl/drumstel/",
+    "readtime": 4
+   }
+  ]
+ ]
+}
