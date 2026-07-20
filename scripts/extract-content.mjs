@@ -17,7 +17,9 @@ const pageAssetsPath = join(root, "content", "page-assets.json");
 // popups.js (de "attention grabbers") is bewust uitgezet (2026-07-20): alle 5
 // popups op de site waren gratis-proefles-ribbons — die funnel is afgebouwd.
 // Let op: img-popup-box/video-popup-box (lightboxes) blijven wél.
-const EXCLUDE_ASSET = /googletagmanager\.com|phx-analytics|phx-admin-menu|connect\.facebook\.net|\/popups\.js/;
+// forms_v2.js is ook uitgezet (2026-07-20): het contactformulier (Vue-component,
+// Phoenix-backend) is bewust verwijderd — zie fase 4-notities.
+const EXCLUDE_ASSET = /googletagmanager\.com|phx-analytics|phx-admin-menu|connect\.facebook\.net|\/popups\.js|forms_v2\.js/;
 
 // Bewust niet gemigreerd (beslissing 2026-07-20): de gratis-proefles-funnel
 // is afgebouwd — deze URLs 301'en in next.config.ts. Raw HTML blijft in
@@ -141,7 +143,10 @@ function extract(slug) {
       // popup-config hoort bij het uitgezette popups.js (proefles-ribbons);
       // window.active_data_resources_comments (reactie-app) blijft wél
       !/^\s*window\.active_data_resources\s*=/.test(content);
-    return isConfigGlobal ? m : "";
+    // lazyload-init MOET blijven: zet window.lazyLoadOptions waarmee
+    // lazyload.min.js zichzelf initialiseert (hero-video's, lazy iframes)
+    const isLazyInit = /lazyLoadOptions/.test(content);
+    return isConfigGlobal || isLazyInit ? m : "";
   });
   body = body.replace(/@@JSON_BLOCK_(\d+)@@/g, (_, i) => jsonBlocks[+i]);
   body = body.replace(/<noscript>[\s\S]*?<\/noscript>/g, "");
@@ -163,6 +168,10 @@ function extract(slug) {
   // wordt een cursusknop — de proefles-funnel bestaat niet meer (zie SKIP_PAGES).
   body = body.replace(/href="\/keuze-pagina-proefles\/"/g, 'href="/cursussen/"');
   body = body.replace(/Gratis proefles!/g, "Bekijk alle cursussen!");
+
+  // Contactformulier verwijderd (beslissing 2026-07-20): de Vue-component
+  // werkt alleen met de Phoenix-backend; mail/telefoon blijven op de pagina.
+  body = body.replace(/<form-vue-component[\s\S]*?<\/form-vue-component>/g, "");
 
   const outFile = join(outDir, `${slug}.html`);
   mkdirSync(dirname(outFile), { recursive: true });
