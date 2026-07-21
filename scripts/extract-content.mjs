@@ -174,6 +174,12 @@ function extract(slug) {
   // werkt alleen met de Phoenix-backend; mail/telefoon blijven op de pagina.
   body = body.replace(/<form-vue-component[\s\S]*?<\/form-vue-component>/g, "");
 
+  // Contactpagina bij het verwijderde formulier: introtekst verwijst niet meer
+  // naar het formulier, en de lege formulier-kolom (kop + lege holder) gaat weg.
+  body = body.replace(/gebruik\s+onderstaand\s+contactformulier\s+of\s+onze\s+gegevens\s+hiernaast\s+om/g, "gebruik onze gegevens hieronder om");
+  body = body.replace(/<h2[^>]*id="neem_contact_op!"[^>]*>[\s\S]*?<\/h2>/g, "");
+  body = body.replace(/<div\s+id="form-holder-[^"]*"[^>]*>[\s\S]*?<\/div>/g, "");
+
   // Logo gelijkgetrokken (beslissing 2026-07-21): het onscherpe 220x55-logo
   // (waarvan geen hogere resolutie bestaat) wordt overal vervangen door het
   // scherpe logo, begrensd op de headerhoogte van de overige pagina's.
