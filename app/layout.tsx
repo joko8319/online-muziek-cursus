@@ -33,6 +33,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="nl">
       <head>
+        {/* favicon 1-op-1 van live (stond daar per pagina in de head) */}
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         <script dangerouslySetInnerHTML={{ __html: gtm }} />
         <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1005401286" />
         <script dangerouslySetInnerHTML={{ __html: gtag }} />
