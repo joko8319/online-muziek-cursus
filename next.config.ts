@@ -26,6 +26,8 @@ const nextConfig: NextConfig = {
       r("/gratis-zanglessen/", "/zangles/"),
       // Dubbelop met /affiliates/ (beslissing 2026-07-21)
       r("/affiliate-programma/", "/affiliates/"),
+      // Oude AMP-variant (WordPress-tijdperk); AMP bestaat niet meer op de site
+      r("/gitaarakkoorden/amp/", "/gitaarakkoorden/"),
     ];
   },
 };
