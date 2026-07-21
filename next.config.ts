@@ -24,6 +24,8 @@ const nextConfig: NextConfig = {
       r("/gratis-gitaarlessen/", "/gitaarles/"),
       r("/gratis-pianolessen/", "/pianoles/"),
       r("/gratis-zanglessen/", "/zangles/"),
+      // Dubbelop met /affiliates/ (beslissing 2026-07-21)
+      r("/affiliate-programma/", "/affiliates/"),
     ];
   },
 };

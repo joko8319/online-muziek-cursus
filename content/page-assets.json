@@ -67,37 +67,6 @@
       "/js/article-layouts/main.js"
     ]
   },
-  "affiliate-programma": {
-    "css": [
-      "/assets/phoenix/css/releases/card-theme-general.css",
-      "/assets/phoenix/css/pages-phoenix-footers.css",
-      "/assets/phoenix/css/master-style.css",
-      "/assets/phoenix/css/custom-1418.css",
-      "/assets/vendor/font-awesome/5.15.4/css/all.min.css",
-      "/assets/phoenix/css/font-styles/poppins.css",
-      "/assets/phoenix/css/font-styles/didact-gothic.css",
-      "/assets/phoenix/css/font-styles/quicksand.css",
-      "/assets/phoenix/css/font-styles/raleway.css",
-      "/assets/phoenix/css/font-styles/montserrat.css",
-      "/assets/phoenix/css/font-styles/open-sans.css",
-      "/assets/phoenix/css/font-styles/roboto.css",
-      "/assets/fonts/mali.css"
-    ],
-    "js": [
-      "/assets/vendor/jquery/3.6.0/jquery.min.js",
-      "/assets/phoenix/js/client/parameter-vars.js",
-      "/assets/phoenix/js/client/img-popup-box.js",
-      "/assets/phoenix/js/client/video-popup-box.js",
-      "/assets/phoenix/js/client/portfolio-popup-box.js",
-      "/assets/phoenix/js/client/menu-scroll.js",
-      "/assets/phoenix/js/client/anchor-scroll-script.js",
-      "/assets/phoenix/js/client/box-slider-script.js",
-      "/assets/phoenix/js/client/common-scripts-ps.js",
-      "/assets/phoenix/js/client/two-step-optin-trigger.js",
-      "/assets/phoenix/js/client/fake-scroll.js",
-      "/assets/phoenix/js/client/lazyload.min.js"
-    ]
-  },
   "affiliates": {
     "css": [
       "/assets/phoenix/css/releases/modern-classic-theme-general.css",

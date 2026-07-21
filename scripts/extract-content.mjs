@@ -29,6 +29,7 @@ const SKIP_PAGES = new Set([
   "gratis-gitaarlessen",
   "gratis-pianolessen",
   "gratis-zanglessen",
+  "affiliate-programma", // dubbelop met /affiliates/ — 301 (beslissing 2026-07-21)
 ]);
 
 // Per pagina de head-assets vastleggen: de stylesheets en scripts verschillen
