@@ -52,7 +52,15 @@ function localPathFor(url) {
 async function download(url, localPath) {
   const dest = join(publicDir, localPath);
   if (existsSync(dest)) return true;
-  const res = await fetch(new URL(url, "https://onlinemuziekcursus.nl").href, { headers: { "User-Agent": UA }, redirect: "follow" });
+  // let op: sinds de DNS-cutover wijst onlinemuziekcursus.nl naar onze eigen
+  // Vercel-site — netwerkfouten (bv. dode http://-links) mogen nooit crashen
+  let res;
+  try {
+    res = await fetch(new URL(url, "https://onlinemuziekcursus.nl").href, { headers: { "User-Agent": UA }, redirect: "follow" });
+  } catch (e) {
+    console.warn(`  ✗ netwerkfout ${url} (${e.cause?.code ?? e.message})`);
+    return false;
+  }
   if (!res.ok) {
     console.warn(`  ✗ ${res.status} ${url}`);
     return false;
@@ -71,7 +79,10 @@ async function processCss(cssUrl, localPath) {
   cssSeen.add(localPath);
   const dest = join(publicDir, localPath);
   if (existsSync(dest)) { manifest[cssUrl] = localPath; return; } // al verwerkt in eerdere run
-  const res = await fetch(new URL(cssUrl, "https://onlinemuziekcursus.nl").href, { headers: { "User-Agent": UA } });
+  let res;
+  try {
+    res = await fetch(new URL(cssUrl, "https://onlinemuziekcursus.nl").href, { headers: { "User-Agent": UA } });
+  } catch (e) { console.warn(`  ✗ netwerkfout ${cssUrl}`); return; }
   if (!res.ok) { console.warn(`  ✗ ${res.status} ${cssUrl}`); return; }
   let css = await res.text();
   const refs = new Set();

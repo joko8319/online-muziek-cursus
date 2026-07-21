@@ -174,6 +174,16 @@ function extract(slug) {
   // werkt alleen met de Phoenix-backend; mail/telefoon blijven op de pagina.
   body = body.replace(/<form-vue-component[\s\S]*?<\/form-vue-component>/g, "");
 
+  // Logo gelijkgetrokken (beslissing 2026-07-21): het onscherpe 220x55-logo
+  // (waarvan geen hogere resolutie bestaat) wordt overal vervangen door het
+  // scherpe logo, begrensd op de headerhoogte van de overige pagina's.
+  // Paginaspecifieke alt/title blijven behouden.
+  body = body.replace(/<img([^>]*)Nieuwe-logo-OMC-klein-220x55\.png([^>]*)>/g, (m) => {
+    const alt = m.match(/alt="([^"]*)"/)?.[1] ?? "Online Muziek Cursus";
+    const title = m.match(/title="([^"]*)"/)?.[1] ?? "";
+    return `<img src="https://media-01.imu.nl/storage/onlinemuziekcursus.nl/21/online-muzieklessen-1.png" alt="${alt}"${title ? ` title="${title}"` : ""} style="max-height:60px;width:auto">`;
+  });
+
   const outFile = join(outDir, `${slug}.html`);
   mkdirSync(dirname(outFile), { recursive: true });
   writeFileSync(outFile, `${headConfigs.join("\n")}\n${styles}\n${body}`);

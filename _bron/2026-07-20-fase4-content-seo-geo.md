@@ -89,7 +89,7 @@ Beheer/CMS komt pas ná een stabiele cutover (geen herstructurering + rebuild te
 
 Tijdens de 1-op-1-herbouw gesignaleerd, bewust níét gefixt (lift-and-shift), hier oppakken:
 
-- **Logo inconsistent en deels onscherp.** Live bestaan twee header-varianten: 110 pagina's gebruiken `online-muzieklessen-1.png` (329×200 px, scherp), ~18 pagina's (o.a. home, `/pianoles/`, `/cursussen/`, legal) gebruiken `Nieuwe-logo-OMC-klein-220x55.png` (220×55 px) — die wordt opgeblazen weergegeven en oogt wazig, zeker op retina. Actie: overal één scherp (retina-)logo.
+- ~~**Logo inconsistent en deels onscherp.**~~ ✅ Opgelost 2026-07-21: overal het scherpe `online-muzieklessen-1.png` (transform in `scripts/extract-content.mjs`, max-height 60px). Van het brede 220×55-logo bleek geen hogere resolutie te bestaan.
 - **`/akoestische-gitaar/` dubbel in de fase 2-checklist:** zowel "reproduceren" (gedaan) als "301 → `/soorten-gitaren/`" (orphan, 0 vertoningen). De 301 is niet gezet; beslissen bij de consolidatieronde.
 - **Dode lightbox-links** in 3 blogposts (`/complete-vocal-technique/`, `/leren-improviseren-voor-zangers/`, `/flageoletten-spelen-op-de-gitaar/`) naar `/wp-content/uploads/2014-2015`-afbeeldingen die live óók al 404 geven. 1-op-1 overgenomen; hier links repareren of verwijderen.
 - **17 pagina's hebben live een ander footer-template** zonder "Navigatie"-kolom (o.a. `/muziektheorie/`, `/gitaar-en-aanbidding/`, `/leren-tokkelen/`). Zo gereproduceerd; eventueel gelijktrekken.
